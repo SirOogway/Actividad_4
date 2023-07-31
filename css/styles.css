@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "jetbrains mono";
+    src: url(fonts/JetBrainsMono-Regular.woff2);
+}
+
+* {
+    font-family: "jetbrains mono";
+    font-weight: 100;
+    font-size: 10px;
+}
+
+html {
+    background-color: rgb(226, 219, 189);
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+th {
+    font-size: 2.6rem;
+    background-color: rgba(212, 185, 226, 0.63);
+    color: rgb(70, 70, 70);
+}
+
+.colspanTitle {
+    font-size: 2.9rem;
+}
